@@ -24,6 +24,7 @@ export default () => {
   useEffect(async () => {
     setItems(await getImages());
   }, items);
+
   return (
     <div className="App">
       {console.log(items)}

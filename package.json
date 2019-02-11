@@ -1,5 +1,6 @@
 {
   "name": "admin-panel-360-apps",
+  "homepage": "https://gstuczynski.pl/admin360/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
